@@ -1,3 +1,5 @@
+![Siri Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzl3bXJsZ2s4OXNkaWt0cDJ3dzVwOTh6bmFmcnNiaWc3MnZsbzcweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MaThe6p8WAKbf9NDDM/giphy.gif)
+
 ### Hi there! 👋
 
 I'm Siri, a 25-year-old engineer from Germany with a passion for **control systems** and building in the **open-source** community. My academic journey from a Bachelor's in Mechanical Engineering to a Master's in Biomedical Engineering has equipped me with a unique blend of analytical and practical skills.
