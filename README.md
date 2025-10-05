@@ -34,11 +34,6 @@ I'm actively looking for opportunities to collaborate on projects, particularly 
 
 #### 🌐 Connect with me
 
-<p align="center">
-  <a href="https://www.instagram.com/enzu2k/?next=%2Fenzofficial2k%2F" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48"/>
-  </a>
-</p>
 
 ---
 
